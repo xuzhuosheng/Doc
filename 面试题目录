@@ -1,0 +1,27 @@
+Java部分：
+
+1.Java 基础
+2.集合（List,Set,Map),其中Map集合是重点
+3.多线程
+4.JVM
+5.设计模式
+6.数据结构
+
+
+Spring部分：
+
+1.Spring 事务
+2.IOC和AOP
+
+
+SpringMVC部分：
+
+1.SpringMVC的实现过程
+2.拦截器和过滤器的区别
+3.常用的一些注解
+
+
+SpringBoot部分：
+
+1.SpringBoot的run方法实现过程
+2.常用的注解
